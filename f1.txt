@@ -1,8 +1,13 @@
 linea 1
 linea 2
 linea 3
+<<<<<<< HEAD
+=======
+linea 3.5
+>>>>>>> fbad2bb (Segundo commit de rama cherry pick - linea 5.5)
 linea 4
 linea 5
+linea 5.5
 linea 6
 linea 7
 <<<<<<< HEAD
