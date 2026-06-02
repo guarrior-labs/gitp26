@@ -7,6 +7,7 @@ linea 6
 linea 7
 <<<<<<< HEAD
 linea 8
+linea 8.5
 linea 9
 =======
 
